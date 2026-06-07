@@ -1,0 +1,8 @@
+Full Name: John Doe
+Gender: Male
+Age: 30
+Mobile no.: 1234567890
+Address: 123 Main St
+Nationality: US
+Do you have any known disability?: No
+Write your problem: None
